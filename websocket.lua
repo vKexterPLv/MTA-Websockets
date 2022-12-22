@@ -1,3 +1,7 @@
+--[[
+    Developers: KexterPL / Discord: Belzebub#2137
+]]--
+
 -- setDevelopmentMode(true,true)
 
 id = 0
