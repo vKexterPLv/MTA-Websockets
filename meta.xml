@@ -1,0 +1,10 @@
+<meta>
+	<info author="VSCode MTA:SA Lua" type="script" name="websockets" />
+	<script src="swebsocket.lua" type="server" />
+	<script src="websocket.lua" type="client" cache="true" />
+	<file src="assets/index.html" />
+
+	<export function="createSocket" type="client" />
+	<export function="sendSocketMessage" type="client" />
+	<export function="closeSocket" type="client" />
+</meta>
